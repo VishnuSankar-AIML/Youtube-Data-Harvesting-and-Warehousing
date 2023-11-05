@@ -91,7 +91,7 @@ regex==2023.10.3
 
 E-mail : [vishnusankaraiml@gmail.com](vishnusankaraiml@gmail.com)
 
-Linkedin : [linkedin.com/in/j-vishnusankar](linkedin.com/in/j-vishnusankar)
+Linkedin : [https://www.linkedin.com/in/j-vishnusankar](https://www.linkedin.com/in/j-vishnusankar)
 
  
 
