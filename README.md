@@ -89,7 +89,7 @@ regex==2023.10.3
 
 ## Application Demo
 
-URL : [https://www.linkedin.com/feed/update/urn:li:activity:7128425628415995905/](https://www.linkedin.com/feed/update/urn:li:activity:7128425628415995905/)
+URL : [https://www.youtube.com/watch?v=AWEVN4JGF0Q](https://www.youtube.com/watch?v=AWEVN4JGF0Q)
 
 ## Contact
 
